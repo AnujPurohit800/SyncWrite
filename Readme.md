@@ -36,15 +36,15 @@
 
 **Collaboration in Editor**
 
-![Editor](./Frontend/src/assets/collab.png)
+![Editor](./Frontend/src/assets/Collab.png)
 
 ---
 
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/SarthakBhandari01/CollabWrite.git
-cd CollabWrite
+git clone https://github.com/AnujPurohit800/SyncWrite.git
+cd SyncWrite
 
 📦 Setup Frontend
 
